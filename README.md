@@ -1,5 +1,5 @@
 # news app
-a very simple news app using newsapi.org API (Flutter => different UI for Android & iOS)
+a very simple news app using newsapi.org API (Flutter => Android & iOS)
 
  ## Screenshot
 
